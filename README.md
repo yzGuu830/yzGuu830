@@ -1,15 +1,22 @@
 <h1 align="center">Hey there! 👋 I'm Yuzhe Gu</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yzGuu830&label=Profile%20views&color=0e75b6&style=flat" alt="yzGuu830" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yzGuu830&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-## About me 
+---
 
-- I’m a Master's student in Computer Science at the University of Pennsylvania
+## 🧑‍💻 About Me
 
-- I do research in Machine Learning, Generative Models, and Efficient AI 
+- 🎓 Master’s student in Computer Science at the University of Pennsylvania  
+- 🧠 Researcher in Machine Learning, with a focus on Generative Models and Efficient Deep Learning
+- 🔬 Passionate about building practical and impactful AI systems
+
+---
 
 ## 📫 Contact
-- 🌐 [Website]([https://your-website.com](https://yzguu830.github.io/))
+
+- 🌐 Personal Website: https://yzguu830.github.io/
 - ✉️ Email: tracygu@seas.upenn.edu
 
 ![Yuzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzGuu830&show_icons=true&theme=default)
