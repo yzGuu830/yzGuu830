@@ -1,18 +1,14 @@
 <h1 align="center">Hey there! 👋 I'm Yuzhe Gu</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=yzGuu830&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
----
 
 ## 🧑‍💻 About Me
 
 - 🎓 Master’s student in Computer Science at the University of Pennsylvania  
 - 🧠 Researcher in Machine Learning, with a focus on Generative Models and Efficient Deep Learning
 - 🔬 Passionate about building practical and impactful AI systems
-
----
 
 ## 📫 Contact
 
