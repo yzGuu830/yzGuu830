@@ -12,12 +12,14 @@
 
 ## 📫 Contact
 
-- 🌐 Personal Website: https://yzguu830.github.io/
+- 🌐 Website: https://yzguu830.github.io/
 - ✉️ Email: tracygu@seas.upenn.edu
+
+<!--
 
 ![Yuzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzGuu830&show_icons=true&theme=default)
 
-<!--
+
 **yzGuu830/yzGuu830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
