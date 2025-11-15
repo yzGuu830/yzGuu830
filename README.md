@@ -7,8 +7,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Master’s student in Computer Science at the University of Pennsylvania  
-- 🧠 Researcher in Machine Learning, with a focus on Generative Models and Efficient Deep Learning
-- 🔬 Passionate about building practical and impactful AI systems
+- 🧠 Researcher in Machine Learning, with a focus on Efficient and Trustworthy Deep Learning Methods
+- 🔬 Passionate about building accessible, reliable, and impactful AI systems
 
 ## 📫 Contact
 
